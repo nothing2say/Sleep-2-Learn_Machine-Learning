@@ -2,6 +2,7 @@
 Sleep to Learn: Learn to Sleep
 
 ## What's now
+* Investigate dataset shift in machine learning through the sleep stage classification
 * Machine Learning methods of Sleep Study
 
 
@@ -11,6 +12,3 @@ Sleep to Learn: Learn to Sleep
 
 
 ---
-
-
-... Machine Learning is Learning the Sleep for Sleep Learning ...
