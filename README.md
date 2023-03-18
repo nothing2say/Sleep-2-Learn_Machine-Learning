@@ -2,7 +2,7 @@
 Sleep to Learn: Learn to Sleep
 
 ## What's now
-* Investigate dataset shift in machine learning through the sleep stage classification using PPG and heart rate data from Apple Watch
+* Investigate dataset shift in machine learning through the sleep stage classification using Acceleration and PPG heart rate data from Apple Watch
 * Machine Learning methods of Sleep Study
 
 
